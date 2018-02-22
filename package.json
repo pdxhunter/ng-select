@@ -3,8 +3,8 @@
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
   },
-  "name": "hunterNgSelect"
-  "version": "0.22.0",
+  "name": "hunterNgSelect",
+  "version": "0.22.1",
   "scripts": {
     "clean": "rimraf out-tsc dist/*",
     "prebuild": "npm run clean",
