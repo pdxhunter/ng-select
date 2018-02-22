@@ -3,6 +3,7 @@
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
   },
+  "name" : "hunter-ng-select"
   "version": "0.22.0",
   "scripts": {
     "clean": "rimraf out-tsc dist/*",
